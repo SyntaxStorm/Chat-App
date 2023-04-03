@@ -1,4 +1,4 @@
-# Chat-app
+# Chat-application
 
 A Web based chat application platform developed using Django (Channels).
 
